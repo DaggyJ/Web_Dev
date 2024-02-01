@@ -1,0 +1,22 @@
+selector {
+    property: value;
+    property: values; 
+
+
+}
+p {
+    color: red;
+    text-align: center;
+}
+
+#header {
+    background-color: burlywood;
+    color: white;
+
+}
+
+.nav-links {
+color: white;
+text-decoration: none;
+
+}
