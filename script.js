@@ -70,4 +70,4 @@ function checkNum(str) {
 			}
 		}
 		return true
-}
+} 

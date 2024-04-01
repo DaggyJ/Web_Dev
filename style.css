@@ -8,9 +8,16 @@
 }
 body {
   background-color:blue;
-  display: flex;
-  padding-top: 100px;
+  margin: 0;
+	font-size: 2rem;
+	display: block;
+	flex: 1;
+	min-height: 100vh;
+	align-items: center;
+	justify-content: center;
+	overflow: hidden;
 }
+
 .calculator {
   width: 350px;
   height: 320px;
